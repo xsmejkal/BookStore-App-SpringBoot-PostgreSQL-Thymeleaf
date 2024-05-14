@@ -24,5 +24,3 @@ This repository contains the source code for a web application called "Book Stor
 ## Contributing
 Contributions are welcome! Feel free to open issues for bug fixes, feature requests, or enhancements. Pull requests are also appreciated.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
